@@ -16,7 +16,7 @@ If Android warns about installing from unknown sources, allow it for this once. 
 
 ## Source code
 
-IHIS is free software under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.html), and is based on [Persian Calendar](https://github.com/persian-calendar/persian-calendar).
+IHIS is free software under the [GNU General Public License v3](https://www.gnu.org/licenses/gpl-3.0.html).
 
 Anyone who receives the app may also receive its complete source code. To request the source for any released version, open an [issue](../../issues) and it will be provided at no charge.
 
