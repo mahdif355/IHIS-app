@@ -4,9 +4,15 @@ The IHIS app for Android: Edmonton prayer times, the Islamic and Persian calenda
 
 ## Download
 
-Get the latest version from the [**Releases**](../../releases/latest) page and tap the `.apk` file on your phone to install it.
+### [⬇ Download IHIS for Android](https://github.com/mahdif355/IHIS-app/releases/latest/download/IHIS.apk)
+
+Tap that link on your phone, then open the downloaded file to install it.
+
+The link always gives the newest version, so it is safe to share and to keep.
 
 If Android warns about installing from unknown sources, allow it for this once. Installing over an existing copy keeps all your settings.
+
+Older versions, and what each one changed, are on the [Releases](../../releases) page.
 
 ### After installing
 
